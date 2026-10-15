@@ -2,8 +2,8 @@
 
 **Estudante de desenvolvimento de sistemas.** Gosto de projetos que juntam **hardware, software e dados** para resolver problemas reais, de um sensor no corpo até imagens de satélite numa lavoura.
 
-🏆 Vencedor do **Projete 2025** (Melhor Projeto, categoria Saúde e Bem-Estar) com o **StraightBack**
-🏆 **Prêmio Municipal de Inovação** no **Projete 2026** com o **CoffeeVision**
+🏆 Vencedor da **Projete 2025** (Melhor Projeto, categoria Saúde e Bem-Estar) com o **StraightBack**
+🏆 **Prêmio Municipal de Inovação** na **Projete 2026** com o **CoffeeVision**
 
 📍 Cachoeira de Minas · 💼 [LinkedIn](https://www.linkedin.com/in/layon-r-12379b3b1) · 📫 lyon.rub@gmail.com
 
